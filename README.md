@@ -1,4 +1,4 @@
-# Namada Testnets
+# Namada Testnets 2025
 
 Testnet configurations and coordination for the Namada.
 
